@@ -1,4 +1,4 @@
-#Final Project
+# Final Project
 This project is a stock price predictor created by Zhao Wang
 Final Project for CS 5350
 Based on python 3.6
